@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29ad15c6-ca20-45ea-adef-adda0f7c32fe" name="Changes" comment="Code is committed.">
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +20,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="preejithste &lt;preejithste@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2jAudXIqYwzzjmmOrUDeaEKmGq6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +44,7 @@
     "Application.Lab002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/LearningATB7xJAVAProgram",
     "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/LearningATB7xJAVAProgram/src/Main.java"
   }
 }]]></component>
@@ -103,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720863088045</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Code is committed.">
+      <option name="closed" value="true" />
+      <created>1720877206923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720877206923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
